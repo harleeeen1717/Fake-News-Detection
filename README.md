@@ -1,9 +1,9 @@
-Fake News Detection using Machine Learning
+**Fake News Detection using Machine Learning**
 
-Intern Details
+**Intern Details**
 Intern ID: CITS5136
 
-Project Title:Fake News Detection using Machine Learning
+**Project Title:Fake News Detection using Machine Learning**
 
 
 **Project Description**
@@ -18,13 +18,13 @@ Scikit-learn
 TF-IDF Vectorizer
 Logistic Regression
 
-Dataset
+**Dataset**
 The project uses the Fake and Real News Dataset containing two files:
 
 Fake.csv
 True.csv
 
-Steps Performed
+**Steps Performed**
 1. Imported the required libraries.
 2. Loaded the dataset.
 3. Combined the real and fake news data.
@@ -35,8 +35,8 @@ Steps Performed
 8. Evaluated the model using accuracy and confusion matrix.
 9. Tested the model with custom news headlines.
 
-Result
+**Result**
 The model successfully classifies news articles as Real or Fake with high accuracy.
 
-Author
+**Author**
 Harleen Kaur
