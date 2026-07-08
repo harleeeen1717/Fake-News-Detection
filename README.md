@@ -1,30 +1,38 @@
-**Fake News Detection using Machine Learning**
+# Fake News Detection using Machine Learning
 
-**Intern Details**
-Intern ID: CITS5136
+## Intern Details
 
-**Project Title:Fake News Detection using Machine Learning**
+**Intern ID: CITS5136**
 
+## Project Title
 
-**Project Description**
-This project uses Machine Learning to identify whether a news article is Real or Fake. The text is converted into numerical features using TF-IDF Vectorization, and a Logistic Regression model is trained to classify the news.
+Fake News Detection using Machine Learning
 
-**Technologies Used**
-Python
-Google Colab
-Pandas
-NumPy
-Scikit-learn
-TF-IDF Vectorizer
-Logistic Regression
+## Project Description
 
-**Dataset**
+This project uses Machine Learning to identify whether a news article is **Real** or **Fake**. The text is converted into numerical features using TF-IDF Vectorization, and a Logistic Regression model is trained to classify the news.
+
+## Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Scikit-learn
+* TF-IDF Vectorizer
+* Logistic Regression
+
+## Dataset
+
+The dataset used in this project is available at:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download
 The project uses the Fake and Real News Dataset containing two files:
 
-Fake.csv
-True.csv
+* Fake.csv
+* True.csv
 
-**Steps Performed**
+## Steps Performed
+
 1. Imported the required libraries.
 2. Loaded the dataset.
 3. Combined the real and fake news data.
@@ -35,8 +43,10 @@ True.csv
 8. Evaluated the model using accuracy and confusion matrix.
 9. Tested the model with custom news headlines.
 
-**Result**
+## Result
+
 The model successfully classifies news articles as Real or Fake with high accuracy.
 
-**Author**
+## Author
+
 Harleen Kaur
